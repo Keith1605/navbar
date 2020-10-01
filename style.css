@@ -30,10 +30,7 @@ nav{
 	color: white;	
 }
 
-.border{
-	border-left: solid;
-	border-color: black;
-}
+
 
 p{
 	line-height: 20px;
@@ -72,7 +69,7 @@ nav ul li{
 		position:absolute;
 		display: block;
 		width: 100%;
-		height: 30vh;
+		height: auto;
 		text-align: left;
 		background:#343a40; 
 		left: -100%;
